@@ -4,6 +4,13 @@
     "es2015"
   ],
   "plugins": [
+	["module-resolver", {
+			"root": ["."],
+			"alias": {
+			"react": "inferno-compat",
+			"react-dom": "inferno-compat"
+		}
+	}],
     "add-module-exports",
     "transform-object-assign"
   ]
