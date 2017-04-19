@@ -1,9 +1,9 @@
-# React Split Pane
+# Inferno Split Pane
 
-Split-Pane component built with [React](http://facebook.github.io/react), can be split vertically or horizontally.
+Split-Pane component built with [Inferno](https://infernojs.org/), can be split vertically or horizontally. This is a fork of [React Split Pane](https://github.com/tomkp/react-split-pane) component.
 
 ```
-npm install react-split-pane
+npm install inferno-split-pane
 ```
 
 [![Build Status](https://img.shields.io/travis/tomkp/react-split-pane/master.svg?style=flat-square)](https://travis-ci.org/tomkp/react-split-pane)
@@ -170,9 +170,9 @@ You can also pass inline styles to the components via props. These are:
 
 ### Contributing
 
-I'm always happy to receive Pull Requests for contributions of any kind. 
+I'm always happy to receive Pull Requests for contributions of any kind.
 
 If possible / necessary then please try and include a test and/or update the examples.
-  
-Thanks, Tom  
-  
+
+Thanks, Tom
+
